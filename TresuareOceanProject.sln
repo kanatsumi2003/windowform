@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TresuareOceanWPF", "TresuareOceanWPF\TresuareOceanWPF.csproj", "{32830615-90BA-4CD1-958F-0A5AFB1C936D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureOceanService", "TreasureOceanService\TreasureOceanService.csproj", "{25B202B2-7AAB-4D4B-A57A-73D35721F134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureOceanRepository", "TreasureOceanRepository\TreasureOceanRepository.csproj", "{A17F9C39-6E0A-4A99-AE22-4E8E61B80924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureOceanDAO", "TreasureOceanDAO\TreasureOceanDAO.csproj", "{606C7046-C02D-446E-85A6-71DA0C91B98B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureOceanBusinessObjects", "TreasureOceanBusinessObjects\TreasureOceanBusinessObjects.csproj", "{CF196B15-320C-4F17-AFC0-8B4EBC7320E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32830615-90BA-4CD1-958F-0A5AFB1C936D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32830615-90BA-4CD1-958F-0A5AFB1C936D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32830615-90BA-4CD1-958F-0A5AFB1C936D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32830615-90BA-4CD1-958F-0A5AFB1C936D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25B202B2-7AAB-4D4B-A57A-73D35721F134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B202B2-7AAB-4D4B-A57A-73D35721F134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B202B2-7AAB-4D4B-A57A-73D35721F134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B202B2-7AAB-4D4B-A57A-73D35721F134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A17F9C39-6E0A-4A99-AE22-4E8E61B80924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17F9C39-6E0A-4A99-AE22-4E8E61B80924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17F9C39-6E0A-4A99-AE22-4E8E61B80924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17F9C39-6E0A-4A99-AE22-4E8E61B80924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{606C7046-C02D-446E-85A6-71DA0C91B98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606C7046-C02D-446E-85A6-71DA0C91B98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606C7046-C02D-446E-85A6-71DA0C91B98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606C7046-C02D-446E-85A6-71DA0C91B98B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF196B15-320C-4F17-AFC0-8B4EBC7320E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF196B15-320C-4F17-AFC0-8B4EBC7320E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF196B15-320C-4F17-AFC0-8B4EBC7320E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF196B15-320C-4F17-AFC0-8B4EBC7320E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8657612-9FC9-4E47-B8F7-B0F5A7A5C818}
+	EndGlobalSection
+EndGlobal

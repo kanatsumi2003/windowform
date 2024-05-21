@@ -1,0 +1,62 @@
+﻿<Window x:Class="TresuareOceanWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TresuareOceanWPF"
+        mc:Ignorable="d"
+        Title="LoginWindow" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        Background="Transparent"
+        AllowsTransparency="True" Loaded="Window_Loaded">
+    <Grid>
+        <Border CornerRadius="10"                    
+        BorderThickness="2"
+        Opacity="0.95" Height="450" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-0.361"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-1.418"/>
+                </TransformGroup>
+            </Border.RenderTransform>
+            <Border.BorderBrush>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#0099FF" Offset="0"/>
+                    <GradientStop Color="#DA34AE" Offset="0.75"/>
+                    <GradientStop Color="#FF60B1E7" Offset="1"/>
+                    <GradientStop Color="#FF596FDD" Offset="0.309"/>
+                    <GradientStop Color="#FF8C57CA" Offset="0.484"/>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
+                    <GradientStop Color="#060531" Offset="1"/>
+                    <GradientStop Color="#FF472FDE" Offset="0.343"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <TextBox x:Name="txtSeaID" TextWrapping="Wrap" Margin="126,48,100,370"/>
+
+        </Border>
+        <Label Content="Sea ID" Margin="23,49,702,366"/>
+        <Label Content="Sea Name" Margin="23,89,687,326"/>
+        <Label Content="Treasure" Margin="23,132,702,283"/>
+        <Label Content="Fee" Margin="23,167,687,248"/>
+        <Label Content="Country " Margin="23,207,702,208"/>
+        <TextBox x:Name="txtTreasure" TextWrapping="Wrap" Margin="128,130,103,291"/>
+        <TextBox x:Name="txtFee" TextWrapping="Wrap" Margin="128,172,103,248"/>
+        <Label Content="Treasure Management" FontSize="30" Margin="236,0,211,368" Foreground="White" FontWeight="Bold"/>
+        <Button Content="Create" Margin="152,393,541,5" Background="#FF00B3FF" Click="btnCreate"/>
+        <Button x:Name="btnUpdate" Content="Update" Margin="278,393,415,5" Background="#FF5AFF00" Click="btnUpdate_Click"/>
+        <Button x:Name="btnDelete" Content="Delete" Margin="400,393,293,5" Background="#FFDCFD1B" Click="btnDelete_Click"/>
+        <Button x:Name="btnClear" Content="Clear" Margin="526,393,167,5" Background="#FFFF6900"/>
+        <TextBox x:Name="txtSeaName" TextWrapping="Wrap" Margin="128,89,103,332"/>
+        <ComboBox x:Name="txtCountry" Margin="128,218,103,200"/>
+        <DataGrid x:Name="dgv_seaAreas"  Margin="128,264,103,62" SelectionChanged="dgv_seaAreas_SelectionChanged"/>
+        <Button x:Name="btn_close" Content="Close" Margin="666,393,27,5" Background="#FFFF6900" Click="btn_close_Click"/>
+    </Grid>
+
+</Window>

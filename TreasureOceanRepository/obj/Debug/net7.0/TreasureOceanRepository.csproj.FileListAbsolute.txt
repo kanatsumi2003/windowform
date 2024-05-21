@@ -1,0 +1,17 @@
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\bin\Debug\net7.0\TreasureOceanRepository.deps.json
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\bin\Debug\net7.0\TreasureOceanRepository.dll
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\bin\Debug\net7.0\TreasureOceanRepository.pdb
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\bin\Debug\net7.0\TreasureOceanBusinessObjects.dll
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\bin\Debug\net7.0\TreasureOceanDAO.dll
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\bin\Debug\net7.0\TreasureOceanDAO.pdb
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\bin\Debug\net7.0\TreasureOceanBusinessObjects.pdb
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\obj\Debug\net7.0\TreasureOceanRepository.csproj.AssemblyReference.cache
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\obj\Debug\net7.0\TreasureOceanRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\obj\Debug\net7.0\TreasureOceanRepository.AssemblyInfoInputs.cache
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\obj\Debug\net7.0\TreasureOceanRepository.AssemblyInfo.cs
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\obj\Debug\net7.0\TreasureOceanRepository.csproj.CoreCompileInputs.cache
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\obj\Debug\net7.0\TreasureOceanRepository.csproj.CopyComplete
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\obj\Debug\net7.0\TreasureOceanRepository.dll
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\obj\Debug\net7.0\refint\TreasureOceanRepository.dll
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\obj\Debug\net7.0\TreasureOceanRepository.pdb
+C:\Users\kanat\OneDrive\Desktop\PE_PRN211_FA23_567555_NGUYENANHDUC\TresuareOceanProject\TreasureOceanRepository\obj\Debug\net7.0\ref\TreasureOceanRepository.dll

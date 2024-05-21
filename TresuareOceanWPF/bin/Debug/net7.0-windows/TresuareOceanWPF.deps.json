@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TresuareOceanWPF/1.0.0": {
+        "dependencies": {
+          "TreasureOceanService": "1.0.0"
+        },
+        "runtime": {
+          "TresuareOceanWPF.dll": {}
+        }
+      },
+      "TreasureOceanBusinessObjects/1.0.0": {
+        "runtime": {
+          "TreasureOceanBusinessObjects.dll": {}
+        }
+      },
+      "TreasureOceanDAO/1.0.0": {
+        "dependencies": {
+          "TreasureOceanBusinessObjects": "1.0.0"
+        },
+        "runtime": {
+          "TreasureOceanDAO.dll": {}
+        }
+      },
+      "TreasureOceanRepository/1.0.0": {
+        "dependencies": {
+          "TreasureOceanDAO": "1.0.0"
+        },
+        "runtime": {
+          "TreasureOceanRepository.dll": {}
+        }
+      },
+      "TreasureOceanService/1.0.0": {
+        "dependencies": {
+          "TreasureOceanRepository": "1.0.0"
+        },
+        "runtime": {
+          "TreasureOceanService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TresuareOceanWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TreasureOceanBusinessObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TreasureOceanDAO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TreasureOceanRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TreasureOceanService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
